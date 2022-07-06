@@ -54,16 +54,12 @@ Hi, I am trying to become a developer😎
  
   ## Studying :pencil2: 
   <!--백-->
-  <br/>
 <!--
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 -->
- <!--언어 및 툴 --> <br/>
+ <!--언어 및 툴 -->
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
- 
 
- <br/>
- <br/>
   
  <!--알고리즘 -->
  <a href="https://github.com/yoon828/Algorithm" > 
