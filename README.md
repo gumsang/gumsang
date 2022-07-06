@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  
  <!--기술스택-->
   ## Skill :four_leaf_clover:
-
+<br/><br/>
  
  <!--공부중 -->
  
@@ -39,18 +39,20 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
+ <br/><br/>
+
+  ##  🍎 새싹4기 플러터 커리큘럼
+
+ | DATE | 수업 | 과제 | 내용 |
+ | ------ | -- | -- |----------- |
+ | 0701 | ☑️ | ☑️ | Flutter 기초 |
+ | 0706 | ☑️ | ☑️ | Git 기초 & Navigation Bar |
+ | 0707 |  |  | Flutter UI 기초 |
+ | 0708 |  |  | Flutter UI 기초 |
+ | 0713 |  |  | Firebase |
+ | 0714 |  |  | Firebase |
   
- <!--알고리즘 -->
- <a href="https://github.com/yoon828/Algorithm" > 
- 
- <!--
- ## Problem Solving :muscle: 
- </a>
- -->
-</div>
- 
-<div align=center>
-<br/><br/><br/>
+  <br/><br/>
   
 <!--깃허브 -->
 <h3>Github :eyes: </h3>
