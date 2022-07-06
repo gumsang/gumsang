@@ -56,9 +56,12 @@ Hi, I am trying to become a developer😎
  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
   <!--백-->
   <br/>
+<!--
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+-->
  <!--언어 및 툴 --> <br/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+ 
 
  <br/>
  <br/>
@@ -83,3 +86,4 @@ Hi, I am trying to become a developer😎
   
  
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gumsang&layout=compact)](https://github.com/gumsang/github-readme-stats)
