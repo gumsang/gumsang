@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 <!--소개-->
 
 ## Introduction :raised_hands:
-Hi, I am trying to become a developer😎
+- 🌱 I’m currently learning Flutter.
+- 📫 How to reach me: gomuzomg@naver.com 
 <br/><br/>
  
  
@@ -42,24 +43,25 @@ Hi, I am trying to become a developer😎
  <!--알고리즘 -->
  <a href="https://github.com/yoon828/Algorithm" > 
  
+ <!--
  ## Problem Solving :muscle: 
  </a>
+ -->
+</div>
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gumsang)](https://solved.ac/gumsang)<br/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-
+<div align=center>
 <br/><br/><br/>
   
-<!--깃허브
+<!--깃허브 -->
 <h3>Github :eyes: </h3>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgumsang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon828&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-<br/><br/><br/> -->
-  
 
  [![test](https://github-readme-stats.vercel.app/api/top-langs/?username=gumsang&layout=compact)](https://github.com/gumsang?tab=repositories)
- 
+  
+  
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gumsang&show_icons=true)  
+
+  
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgumsang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/gumsang)  
  
 </div>
 
