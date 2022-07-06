@@ -83,6 +83,9 @@ Hi, I am trying to become a developer😎
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon828&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/><br/> -->
   
+
+ [![test](https://github-readme-stats.vercel.app/api/top-langs/?username=gumsang&layout=compact)](https://github.com/gumsang?tab=repositories)
+ 
  
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gumsang&layout=compact)](https://github.com/gumsang/github-readme-stats)
+
