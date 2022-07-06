@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ## Introduction :raised_hands:
 - 🌱 I’m currently learning Flutter.
 - 📫 How to reach me: gomuzomg@naver.com 
+- 📚 <a href="https://velog.io/@gomuzom"><img src="https://img.shields.io/badge/gomuzom.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a> 
 <br/><br/>
  
  
