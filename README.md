@@ -42,18 +42,6 @@ Here are some ideas to get you started:
 
  <br/><br/>
 
-  ##  🍎 새싹4기 플러터 커리큘럼
-
- | DATE | 수업 | 과제 | 내용 |
- | ------ | -- | -- |----------- |
- | 0701 | ☑️ | ☑️ | Flutter 기초 |
- | 0706 | ☑️ | ☑️ | Git 기초 & Navigation Bar |
- | 0707 |  |  | Flutter UI 기초 |
- | 0708 |  |  | Flutter UI 기초 |
- | 0713 |  |  | Firebase |
- | 0714 |  |  | Firebase |
-  
-  <br/><br/>
   
 <!--깃허브 -->
 <h3>Github :eyes: </h3>
